@@ -1,0 +1,14 @@
+# Ignore node modules
+node_modules/
+
+# Ignore all text files
+*.txt
+
+# Ignore specific file
+config.php
+
+# Ignore all files in a specific directory
+logs/
+
+# Ignore .env files
+.env

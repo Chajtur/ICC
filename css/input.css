@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .input {
+    @apply border border-gray-300 rounded-md shadow-sm;
+  }
+
+  .text-main-light {
+    color: #2240fb;
+  }
+
+  .text-main-dark {
+    color: #1c1c95;
+  }
+
+  .bg-main-light {
+    background-color: #2240fb;
+  }
+
+  .bg-main-dark {
+    background-color: #1c1c95;
+  }
+}
