@@ -1,5 +1,5 @@
-<div class="bg-neutral-700 w-full h-12 mt-auto text-white flex items-center">
+<div class="bg-neutral-700 w-full h-12 mt-auto text-white md:flex items-center hidden">
     <p class="mx-auto">
-        Aquí va el copyright
+        &copy ICC BPO 2024
     </p>
 </div>
